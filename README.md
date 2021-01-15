@@ -52,7 +52,7 @@ City officials would also like to see one of the following visualizations:
 
 Basic: A static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey with zip code data overlaid on top (I performed this activity).
 
-Create a Tableau story that brings together the visualizations, requested maps, and dashboards.
+Create a Tableau story that brings together the visualizations, requested maps, and dashboards. Included zip code overlay in station maps.
 
 ### Submission:
 
